@@ -1,0 +1,4 @@
+Navigate to the following when there are industry changes -> https://www.fuzzwork.co.uk/dump/latest/
+Download invTypes-nodescription.csv, industryActivityProducts.csv and industryActivityMaterials.csv
+Convert those files into JSON files
+run node main.js to generate blueprintReferenceMap.json for use throughout the application

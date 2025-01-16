@@ -1,0 +1,30 @@
+body {
+  background-color: #181C14;
+}
+.navbar-button {
+  background-color: #3c3d37;
+  color: #ECDFCC;
+  padding: 10px;
+  font-size: 32px;
+}
+
+.navbar-button:hover {
+  background-color: #697565;
+}
+
+.sub-module-container {
+  background-color: #3C3D37;
+  margin: 10px;
+  padding: 20px;
+}
+
+.industry-label-1 {
+  color: #ECDFCC;
+  font-size: 24px;
+  margin: 10px;
+}
+
+.industry-label-div-1 {
+  padding: 5px;
+  margin: 5px;
+}

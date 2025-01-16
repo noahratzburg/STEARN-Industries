@@ -1,0 +1,9 @@
+- Handle system cost index to manufacturing cost
+- Configurable structures else treat as T2
+- Selected Job not updating after bulk job completeion
+- CSS
+- handle deselect
+- create standard db.json file
+
+-Following Link for MANUFACTURING cost input
+-https://esi.evetech.net/latest/markets/prices/?datasource=tranquility 
